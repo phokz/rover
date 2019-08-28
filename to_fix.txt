@@ -1,0 +1,24 @@
+NON-PRINTING tasks:
+
+PRINTING tasks:
+
+
+NEXT ?
+- diry na sroubky k prevodovce by mohly drzet matky
+- drzak na breadboard?
+- udělat malý rantlík (asi 1.4mm) na kolíky pro ozub kolečka (asi zbytečné).
+
+DONE
+- sloupky na prevodovku zvednout o 2.4mm
+- udělat 2x díru na držák baterek - ta rozteč je kupodivu správně.
+- kolecko na servo musi byt tesnejsi
+- přiletovat piny k driveru
+- zapojit mozek a driver
+- ozubene poloosy musi byt derave
+- spuntiky musi mit spravny konus
+- servo gear ma (snad) spravny spline
+- drzak serva musi mit diru durch
+- dira na servo by mela byt delsi
+- zakladna potrebuje vetsi diru na prevodovku
+- natrubky na ozub kola by mohly mit diru na matku
+- sloupky na pritazeni prevodovky

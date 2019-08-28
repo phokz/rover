@@ -1,0 +1,1 @@
+~/PrusaSlicer-2.1.0-alpha1+linux64-201908091121/prusa-slicer 0*.stl

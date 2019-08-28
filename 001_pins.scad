@@ -1,0 +1,3 @@
+use <steering.scad>;
+pins();
+
