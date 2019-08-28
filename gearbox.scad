@@ -33,8 +33,8 @@ module gearbox_model_xhole() {
     translate([gearbox_length-gearbox_end_to_hole, gearbox_holes_distance,0])cylinder(d=6,h=gearbox_height);
   }
   }
-  color([1,0,0])translate([gearbox_length-gearbox_end_to_hole, 0,0])cylinder(d=3.2,h=gearbox_height-10);
-      translate([gearbox_length-gearbox_end_to_hole, gearbox_holes_distance,0])cylinder(d=3.2,h=gearbox_height-10);
+  color([1,0,0])translate([gearbox_length-gearbox_end_to_hole, 0,0])cylinder(d=3.2,h=gearbox_height-5);
+      translate([gearbox_length-gearbox_end_to_hole, gearbox_holes_distance,0])cylinder(d=3.2,h=gearbox_height-5);
     
 }
 
